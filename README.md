@@ -305,8 +305,10 @@ When adding new solvers:
 
 ## License
 
-Part of the Math Educational App project.
-
+This project is officially registered and copyrighted. 
+Copyright © 2026 Telkom University. All rights reserved.
+Certificate Registration Number: 001247300
+Official Copyright Registration Certificate from Indonesia's Ministry of Law, Registration No. 001247300, valid for 50 years. MathSolver Pro is legally protected intellectual property under Indonesian Law No. 28/2014
 ---
 
 **Latest Update**: All core solvers, formula catalog, and topic providers implemented with comprehensive test coverage.
