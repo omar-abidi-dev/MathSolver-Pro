@@ -1,4 +1,4 @@
-# MathSolver Pro  App - Pro AI-Powered Step-by-Step Mathematics Learning for Every Student 
+# MathSolver Pro  App: AI-Powered Step-by-Step Mathematics Learning for Every Student 
 
 ## Overview
 A comprehensive math learning and problem-solving iOS application built with SwiftUI. The app provides interactive tutorials, formula solving, and step-by-step solutions across multiple math domains.
