@@ -3,6 +3,14 @@
 ## Overview
 A comprehensive math learning and problem-solving iOS application built with SwiftUI. The app provides interactive tutorials, formula solving, and step-by-step solutions across multiple math domains.
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/System Architecture Diagram.png" width="200"/>
+  <img src="assets/equations.png" width="200"/>
+  <img src="assets/statistics.png" width="200"/>
+</p>
+
 ## Architecture
 
 ### Core Components
