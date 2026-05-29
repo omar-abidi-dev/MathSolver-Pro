@@ -6,7 +6,7 @@ A comprehensive math learning and problem-solving iOS application built with Swi
 ## Screenshots
 
 <p align="center">
-  <img src="assets/System-Architecture-Diagram.png" width="200"/>
+  <img src="assets/System-Architecture-Diagram.png" width="600"/>
 </p>
 
 ## Architecture
